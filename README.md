@@ -2,13 +2,13 @@
 Predictive model for D3 cross-country athletes
 # D3 Athlete Performance Simulator
 
-## 🏃 Project Description
+## Project Description
 
 This Python-based simulation tool helps predict 8k race times for Division III cross-country athletes. It accounts for factors such as nutrition, sleep, mental state, training load, and course conditions (e.g., temperature, wind, terrain). The tool models performance with a predictive scoring system and simulates individual or multiple athletes for leaderboard comparison.
 
 ---
 
-## 🚀 How to Install / Run
+## How to Install / Run
 
 ### Requirements
 
